@@ -13,4 +13,6 @@ INSTALLATION
 ============
 
 sudo dkms add ./rtlwifi_new
+---------------------------
 sudo dkms install rtlwifi-new/0.6
+---------------------------------
